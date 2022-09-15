@@ -13,5 +13,6 @@ public class Ejercicio1 {
         System.out.println("Logica metodo");
         System.out.println("Agregando logica");
         System.out.println("agregar en metodo 1");
+        System.out.println("agregando algo nuevo");
     }
 }
